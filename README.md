@@ -76,9 +76,9 @@ This project is part of a peer-group assignment for the PLP Academy AI for Softw
 
 ## 👥 Team Members (Peer Group Project)
 
-*Scholar Waweru**  – scholarwambui23@gmail.com
-*Sharon Kipsang**  – sharonkipsang53@gmail.com
-*Pauline Onyango** – paulineakoth2002@gmail.com
+Scholar Waweru  – scholarwambui23@gmail.com
+Sharon Kipsang  – sharonkipsang53@gmail.com
+Pauline Onyango – paulineakoth2002@gmail.com
 
 ---
 
